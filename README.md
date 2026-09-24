@@ -39,6 +39,40 @@
 
 </div>
 
+
+<div align="center">
+
+<p align="center">
+ <a href="https://github.com/jessejohnstone">
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=jessejohnstone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=14B8A6&text_color=E0F2F1&ring_color=0D9488&count_private=true" />
+</a>
+<a href="https://github.com/lewiii254">
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=jessejohnstone&theme=radical&hide_border=true&background=0d1117&ring=00ff87&fire=00d9ff&currStreakLabel=00ff87&border_radius=10" alt="GitHub Streak" />
+
+<table>
+<tr>
+<td width="33%">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jessejohnstone&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jessejohnstone&theme=transparent" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jessejohnstone&theme=transparent&utc_offset=5.5" />
+
+</td>
+</tr>
+</table>
+</p>
+
+</div>
+
+
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
